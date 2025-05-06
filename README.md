@@ -75,7 +75,7 @@ This is more than blinking lights—this is system simulation. We’re modeling 
 
 ## 🎬 Final Result
 
-# Each light turns on with a purpose. A rhythm. A cycle. And then it repeats—forever. Just like traffic in the real world. This isn’t art. This is control logic in action.
+### Each light turns on with a purpose. A rhythm. A cycle. And then it repeats—forever. Just like traffic in the real world. This isn’t art. This is control logic in action.
 
 ![Result](GIF/TrafficLightLED.gif)
 
