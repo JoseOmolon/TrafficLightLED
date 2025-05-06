@@ -81,7 +81,7 @@ This is more than blinking lights—this is system simulation. We’re modeling 
 
 
 🎥 Watch the Full Build Video:
-👉 [Insert Your YouTube Link Here]
+👉 [https://youtu.be/f2dNCj9sKas]
 
 ## 💬 Final Thoughts
 Want to become an embedded engineer? Stop thinking like a coder. Start thinking like a system. This project taught me control, timing, and structure. LEDs are just the medium—the message is discipline.
