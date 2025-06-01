@@ -1,4 +1,4 @@
-# LED-Traffic-Light  123
+# LED-Traffic-Light  12
 ## Simulation of Real-World Logic – “Timing, Sequence, Control”
 
 The **third step** in my embedded systems grind. We’re not playing games here—this is **real-world behavior** coded into a microcontroller. A full **traffic light sequence**, down to the second. Simple to watch. Powerful to understand.
