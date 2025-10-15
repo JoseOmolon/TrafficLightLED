@@ -9,7 +9,7 @@ The **third step** in my embedded systems grind. We’re not playing games here�
 
 Embedded systems run the real world. This project simulates how logic becomes physical. Timers, loops, delays—this is the groundwork. It’s not just about turning LEDs on and off. It’s about replicating **systems thinking** in code.
 
-### ⚙️ What I Learned This Time 1
+### ⚙️ What I Learned This Time 
 
 - Sequential state logic is the backbone of control systems  
 - Timing + repetition = real-life mimicry  
